@@ -128,5 +128,5 @@
 - [VEJA A DOCUMENTAÇÃO](https://www.sqlite.org/docs.html)
 - [MUITO USADO COM A LINGUAGEM PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 - [VEJA O MANUAL](./MANUAL.md)
-- [VEJA OS COMANDOS](./COMANDOS.md)
+- [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:SQLITE)
