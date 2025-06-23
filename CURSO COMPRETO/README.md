@@ -1,4 +1,16 @@
 # INSTRUÇÕES
+
+---
+## INDICE
+
+- [01) INTRODUÇÃO SQL](./README.md#01-introdu%C3%A7%C3%A3o-sql)
+- [02) INSTALANDO O SQLITE E O DB BROWSER](./README.md#02-instalando-o-sqlite-e-o-db-browser)
+- [03) COMANDOS DDL: CREATE DATABASE](./README.md#03-comandos-ddl--create-database)
+- [04-05) COMANDOS DDL: CREATE TABLE, ALTER E DROP](./README.md#04-05-comandos-ddl-create-table-alter-e-drop)
+- [06-07) COMANDOS DML: INSERT, UPDATE, DELETE + WHERE](./README.md#06-07-comandos-dml-insert-update-delete--where)
+- [08-10) OPERADORES COMPARATIVOS E LÓGICOS](./README.md#08-10-operadores-comparativos-e-l%C3%B3gicos)
+---
+
 ## 01) INTRODUÇÃO SQL
 ### CONCEITOS
 **SQL (Structured Query Language)** é a linguagem padrão para gerenciamento e manipulação de bancos de dados relacionais. SQL permite criar, modificar, gerenciar e consultar dados armazenados em sistemas de gerenciamento de banco de dados (SGBDs) como SQLite, MySQL, PostgreSQL, SQL Server, entre outros. Neste guia, vamos abordar os conceitos básicos e comandos fundamentais do SQL.
